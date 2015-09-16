@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:15.463629
+#+DATE: 2015-08-30 20:47:16.620710
 #+TITLE: 施設論
 #+PROPERTY: CBETA_ID T26n1538
 #+PROPERTY: ID KR6l0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1538
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0003_T_000-0514a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0003_T_004-0521b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《施設論》卷第四¶
+《施設論》卷第四¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
 光梵大師賜紫沙門臣惟淨等¶
 奉　詔譯¶
 
-:PROPERTIES:
-:head: 對法大論中因施設門第六之二
-:END:
-¶
+對法大論中因施設門第六之二¶
 
 論中問曰。有何所因。而能了知正覺。世尊於¶
 諸眾生。大悲超勝。答世尊為見世間眾生。染¶
@@ -65,10 +61,7 @@
 無中間趣滅。答業報熾然故。以其苦受業報¶
 未盡。由此因故。其事如是。¶
 
-:PROPERTIES:
-:head: 對法大論中因施設門第七
-:END:
-¶
+對法大論中因施設門第七¶
 
 復次一時佛在舍衛國。告苾芻眾言。苾芻當¶
 知。有三種法。為內垢染。內含藏。內怨惡。何¶
@@ -217,10 +210,7 @@
 復云何。謂作仙人及出家人諸長者等。或生¶
 色無色界天中。由此因故。其事如是。¶
 
-:PROPERTIES:
-:head: 對法大論中因施設門第八之一
-:END:
-¶
+對法大論中因施設門第八之一¶
 
 總說頌曰。¶
 

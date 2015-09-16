@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:15.524760
+#+DATE: 2015-08-30 20:47:16.679597
 #+TITLE: 施設論
 #+PROPERTY: CBETA_ID T26n1538
 #+PROPERTY: ID KR6l0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1538
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0003_T_000-0514a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0003_T_007-0527b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《施設論》卷第七¶
+《施設論》卷第七¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
 光梵大師賜紫沙門臣惟淨¶
 等奉　詔譯¶
 
-:PROPERTIES:
-:head: 對法大論中因施設門第十三
-:END:
-¶
+對法大論中因施設門第十三¶
 
 如經所說。一性所成。有多種類。今問。何因¶
 其事如是。答謂。如苾芻引世間定。先得離欲。¶
@@ -140,10 +136,7 @@
 此如是等。餘諸神通功力化事。如其所說隨¶
 意。應知。¶
 
-:PROPERTIES:
-:head: 因施設門第十四
-:END:
-¶
+因施設門第十四¶
 
 問曰。有何分量。知天降雨。答有八種雲。彼第¶
 一雲。高一由旬半。第二雲。高五俱盧舍。第三¶

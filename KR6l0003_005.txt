@@ -1,29 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:15.484825
+#+DATE: 2015-08-30 20:47:16.639777
 #+TITLE: 施設論
 #+PROPERTY: CBETA_ID T26n1538
 #+PROPERTY: ID KR6l0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1538
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0003_T_000-0514a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0003_T_005-0523b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
 ¶
-
- 《施設論》卷第五¶
+《施設論》卷第五¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
 光梵大師賜紫沙門臣惟淨等¶
 奉　詔譯¶
 
-:PROPERTIES:
-:head: 對法大論中因施設門第八之二
-:END:
-¶
+對法大論中因施設門第八之二¶
 
 又問。何因未離欲者。當趣滅時。上風吹鼓。¶
 內入其身。已離欲者。當趣滅時。無上風吹鼓¶
@@ -81,10 +77,7 @@
 龜鼈蝦蟇。及水蛭等。目中瞳人。骨之所成。陸¶
 中水中。俱無障礙。是故俱見。¶
 
-:PROPERTIES:
-:head: 對法大論中因施設門第九
-:END:
-¶
+對法大論中因施設門第九¶
 
 總說頌曰。¶
 
@@ -215,10 +208,7 @@
 攝受。由此因故。即能速成禪定忍辱二種善¶
 法。¶
 
-:PROPERTIES:
-:head: 對法大論中因施設門第十之一
-:END:
-¶
+對法大論中因施設門第十之一¶
 
 總說頌曰。¶
 
